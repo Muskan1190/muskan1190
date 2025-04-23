@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=👋+Bonjour%2C+I'm+Muski+Patel;Business+Analyst+%7C+ML+Explorer+%7C+Data+Lover;French+Language+Fan+🇫🇷;Currently+Building+Cool+Stuff+on+Kaggle+💪" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muskan1190/muskan1190/main/assets/banner.png" alt="Muskan Patel Banner" width="100%" />
-</p>
 
 
 
